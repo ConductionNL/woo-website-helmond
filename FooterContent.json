@@ -1,0 +1,33 @@
+[
+  {
+    "items": [
+      {
+        "label": "Huis voor de Stad",
+        "ariaLabel": "Address",
+        "multiRow": "Weg op Den Heuvel 35 \n 5701 NV Helmond"
+      },
+      {
+        "value": "Telefoon: 14 0492 (zonder kengetal)",
+        "ariaLabel": "Phone number"
+      },
+      {
+        "value": "Buiten Nederland: + 31 (0)492-587777",
+        "ariaLabel": "Phone number"
+      },
+      {
+        "link": "https://www.helmond.nl/contact",
+        "value": "Contact",
+        "ariaLabel": "Contact"
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "ariaLabel": "Toegankelijkheid",
+        "value": "Toegankelijkheid",
+        "markdownLink": "https://github.com/ConductionNL/woo-website-helmond/blob/main/Toegankelijkheid.md"
+      }
+    ]
+  }
+]
